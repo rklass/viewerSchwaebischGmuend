@@ -8,4 +8,4 @@ Dort läuft das Programm viewlivestream.sh und das Pausenbild ist installiert
 Dort läuft das Programm streamStartvinzenz.sh
 
 3.) PI im Keller
-Entält nur Teamviewer, damit NUC und PC aufgeweckt werden können
+Enthält nur Teamviewer, damit NUC und PC aufgeweckt werden können
